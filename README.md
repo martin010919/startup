@@ -14,7 +14,7 @@
 # Current funciton
 
 > 1. closes chrome
-> 2. opens it back, with <your choice of website> 
+> 2. opens it back, with your choice of website (mine is Uni's site + Youtube)
 > 3. launches teams /and/or dicord
 
 # edit the txt file with cmd command for more function
